@@ -2,7 +2,7 @@
   import { onMount } from "svelte";
 
   // Customize these per page/brand
-  export let id = "jbn-top-notice-v1"; // change to invalidate old dismissals
+  export let id = "jnb-top-notice-v1"; // change to invalidate old dismissals
   export let message = "Subscribe for job alerts by email";
   export let href = "/subscribe";
   export let ctaLabel = "Subscribe"; // not shown if empty
@@ -10,7 +10,7 @@
   // Right-side quick links (phone, email, etc.)
   export let links: Array<{ label: string; href: string; icon?: "phone" | "mail" | "help" }> = [
     { label: "+234 700 000 0000", href: "tel:+2347000000000", icon: "phone" },
-    { label: "help@jbn.ng", href: "mailto:help@jbn.ng", icon: "mail" }
+    { label: "help@jnb.ng", href: "mailto:help@jnb.ng", icon: "mail" }
   ];
 
   let open = true;

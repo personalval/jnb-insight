@@ -4,7 +4,7 @@
   // Configurable props
   export let title = "We Are Building Nigeria’s\nFuture Workforce";
   export let subtitle =
-    "JBN connects students, interns, NYSC members, and entry-level talent with employers. Discover internships, graduate roles, and early careers with employers ready to grow.";
+    "jnb connects students, interns, NYSC members, and entry-level talent with employers. Discover internships, graduate roles, and early careers with employers ready to grow.";
   export let imageSrc = "/images/hero-laptop.png"; // replace with your asset
   export let imageAlt = "Smiling candidate using a laptop";
 export let floatImage = "/images/tip-2.png";

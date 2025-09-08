@@ -45,7 +45,7 @@
         <a href="/" class="flex items-center gap-2">
           <!-- swap for your logo -->
           <div class="h-8 w-8 rounded bg-primary text-primary-content grid place-items-center font-bold">J</div>
-          <span class="font-semibold tracking-tight">jbn</span>
+          <span class="font-semibold tracking-tight">jnb</span>
         </a>
       </div>
 
