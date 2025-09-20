@@ -44,8 +44,7 @@
 
         <a href="/" class="flex items-center gap-2">
           <!-- swap for your logo -->
-          <div class="h-8 w-8 rounded bg-primary text-primary-content grid place-items-center font-bold">J</div>
-          <span class="font-semibold tracking-tight">jnb</span>
+          <img style="width: 100px" src="images/white.png" alt="logo" srcset="">
         </a>
       </div>
 

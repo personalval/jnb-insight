@@ -4,9 +4,13 @@
 	
 	let { children } = $props();
 </script>
-
 <svelte:head>
 	<link rel="icon" href={favicon} />
 </svelte:head>
+<div data-theme="jbn">
+
 
 {@render children?.()}
+</div>
+
+
