@@ -26,6 +26,7 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
+		"@fontsource/elms-sans": "^5.2.1",
 		"@sveltejs/adapter-auto": "^6.1.0"
 	}
 }
